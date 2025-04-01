@@ -6,3 +6,5 @@ Open Yarlina's Github, explore a new world
 
 ![GitHub QR Code](qr_codes/github_qr.png)
 
+## Log of QR Code Generation
+![Log of QR Code Generation](log_image.png)
